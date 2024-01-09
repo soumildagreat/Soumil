@@ -1,2 +1,2 @@
 # Soumil
-An object detection software that is very easy to do for beginners and intermediates
+This module utilises cvlib and the speech modules gTTS and playsound. First, install cvlib, gTTS and playsound on the terminal by typing "pip install gTTS cvlib playsound" into the terminal. Then type the code into the IDE and after 5-10 seconds of initialising, it will output a live webcam Object Detection Software that detects images from webcam. The FPS is slow and the list of objects is not a lot but it is easier to do and works more often than other methods like the renowned YOLO image recognition software. And it is great for beginners and intermediates in coding interested to learn a simple way to implement a live webcam object detection software.
